@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+
+</head>
+
+<body >
+<script type="text/javascript">
+var count=0,x=400,y=180;
+//加载背景图
+var background=new Image();
+background.src="img/background.png";
+//加载人物图
+var sprite=new Image();
+sprite.src="img/sprite.png";
+//创建画布
+var canvas=document.createElement("canvas");
+document.body.appendChild(canvas);
+canvas.width=1440;
+canvas.height=485;
+function draw(){
+	var context=canvas.getContext("2d");
+	context.drawImage(background,0,0);
+	
+switch(count){
+case 0:
+	context.drawImage(sprite,0,0,170,172,x,y,170,172);
+	count++;
+	break;
+case 1:	
+	context.drawImage(sprite,170.33,0,170,172,x,y,170,172);
+	count++;
+	break;
+case 2:
+	context.drawImage(sprite,340.66,0,170,172,x,y,170,172);
+	count++;
+	break;
+case 3:
+	context.drawImage(sprite,510.99,0,170,172,x,y,170,172);
+	count++;
+	break;
+case 4:
+	context.drawImage(sprite,681.33,0,170,172,x,y,170,172);
+	count++;
+	break;
+case 5:
+	context.drawImage(sprite,851.66,0,170,172,x,y,170,172);
+	count++;
+	break;
+case 6:
+	context.drawImage(sprite,1022,0,170,172,x,y,170,172);
+	count++;
+	break;
+case 7:
+	context.drawImage(sprite,1192.33,0,170,172,x,y,170,172);
+	count++;
+	break;
+case 8:
+	context.drawImage(sprite,1362.66,0,170,172,x,y,170,172);
+	count=0;
+	break;	
+	}	
+
+}
+window.onload=setInterval(draw,250);
+
+</script>
+</body>
+</html>
