@@ -20,8 +20,7 @@ window.onload=function Ball(){
 
             lis[i].onclick=function () {
                 this.className="hit";
-                window.location.href[this.index]=true;
-            }
+               }
 
         }
     };

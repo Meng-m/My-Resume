@@ -234,7 +234,10 @@ color: #fbfaff;
     justify-content: center;
     font-size: 16px;
 }
+a:hover{
+    opacity: 0.7;
 
+}
 
 .W-left{
     display: flex;
