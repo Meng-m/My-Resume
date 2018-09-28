@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d77fe40f-327a-4e7a-b068-f938e05bd4c3" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/Excise.html" afterPath="$PROJECT_DIR$/Excise.html" />
+      <change beforePath="$PROJECT_DIR$/Html+css/E-website/css/index.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/E-website/images/Facebook.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/E-website/images/audio(你的歌).mp3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/E-website/images/bencao logo.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/E-website/images/bg.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/E-website/images/bg2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/E-website/images/bg3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/E-website/images/bg4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/E-website/images/cc.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/E-website/images/fendi.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/E-website/images/fendifan.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/E-website/images/fonts/喇叭.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/E-website/images/fonts/左箭头.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/E-website/images/fonts/箭头.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/E-website/images/fonts/音乐.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/E-website/images/fonts/鸽子.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/E-website/images/konghongfan.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/E-website/images/kouhong.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/E-website/images/logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/E-website/images/new.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/E-website/images/sk2logo.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/E-website/images/text.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/E-website/images/video.mp4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/E-website/images/yanying.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/E-website/images/yanyingfan.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/E-website/images/yirenshui.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/E-website/images/三角形-down.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/E-website/images/下箭头.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/E-website/images/关注.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/E-website/images/放大镜.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/E-website/images/试妆.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/E-website/images/选项.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/E-website/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/H5动画小熊/img/background.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/H5动画小熊/img/sprite.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/H5动画小熊/img/sprite2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/H5动画小熊/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/天气预报/img/1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/天气预报/img/2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/天气预报/img/3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/天气预报/img/4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/天气预报/img/5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/天气预报/img/晴.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/天气预报/img/阴.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/天气预报/img/雨.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/天气预报/img/雪.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/天气预报/img/风.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/天气预报/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/物流界面/AnhuiIOT" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/物流界面/_notes/index.html.mno" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/物流界面/img/-745f92ad7cde027a.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/物流界面/img/1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/物流界面/img/12.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/物流界面/img/123.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/物流界面/img/5a79c879305bf36fff5bc2324cc4e480.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/物流界面/img/674028ec12770f17cee965781d34b3c2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/物流界面/img/biaoti.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/物流界面/img/f5d95abad821a5159f1e48fd96212878.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/物流界面/img/u=1126496494,3964967788&amp;fm=26&amp;gp=0.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/物流界面/img/u=1383861735,1990522875&amp;fm=26&amp;gp=0.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/物流界面/img/u=1559980446,3826826721&amp;fm=26&amp;gp=0.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/物流界面/img/u=170864468,649971556&amp;fm=26&amp;gp=0.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/物流界面/img/u=1855311487,1273081680&amp;fm=26&amp;gp=0.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/物流界面/img/u=2005388468,2666472705&amp;fm=26&amp;gp=0.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/物流界面/img/u=2634576723,1644526235&amp;fm=26&amp;gp=0.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/物流界面/img/u=2957635590,2771786783&amp;fm=26&amp;gp=0.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/物流界面/img/u=3404553281,1575865362&amp;fm=26&amp;gp=0.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/物流界面/img/u=3481939920,1591320387&amp;fm=26&amp;gp=0.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/物流界面/img/u=3816335401,4238052269&amp;fm=26&amp;gp=0.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/物流界面/img/u=3891043225,973488654&amp;fm=26&amp;gp=0.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/物流界面/img/u=4119651797,3827261658&amp;fm=26&amp;gp=0.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/物流界面/img/u=549773188,1709037673&amp;fm=26&amp;gp=0.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/物流界面/img/u=58182855,793383312&amp;fm=26&amp;gp=0.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/物流界面/img/u=726595763,1529222030&amp;fm=26&amp;gp=0.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/物流界面/img/下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/物流界面/img/无标题.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Html+css/物流界面/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Learning.html" afterPath="$PROJECT_DIR$/Learning.html" />
+      <change beforePath="$PROJECT_DIR$/Rusume/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Rusume/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Rusume/.idea/简历.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Rusume/Page/AbouteMe.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Rusume/Page/Excise.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Rusume/Page/Learning.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Rusume/Page/Works.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Rusume/css/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Rusume/img/Blog.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Rusume/img/bg-five.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Rusume/img/bg-four.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Rusume/img/bg-six.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Rusume/img/bg-three.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Rusume/img/bg-two.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Rusume/img/bubble1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Rusume/img/bubble2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Rusume/img/bubble3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Rusume/img/bubble4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Rusume/img/bubble5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Rusume/img/github.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Rusume/img/me.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Rusume/img/people.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Rusume/img/vue-2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Rusume/img/vue.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Rusume/img/星巴克.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Rusume/img/管理.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Rusume/img/背景.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Rusume/img/邮箱.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Rusume/js/Excise.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Rusume/js/Learning.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Rusume/js/Public-javascript.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Works.html" afterPath="$PROJECT_DIR$/Works.html" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Learning.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Learning.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1134">
+              <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Excise.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Excise.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="46" lean-forward="false" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Works.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Works.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="24" column="10" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resume/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6588">
+              <caret line="244" column="30" lean-forward="false" selection-start-line="244" selection-start-column="30" selection-end-line="244" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>a</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Resume/js/Public-javascript.js" />
+        <option value="$PROJECT_DIR$/Learning.html" />
+        <option value="$PROJECT_DIR$/Excise.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Resume/css/style.css" />
+        <option value="$PROJECT_DIR$/Works.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-223" />
+    <option name="y" value="27" />
+    <option name="width" value="1942" />
+    <option name="height" value="1042" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="My-Resume" type="b2602c69:ProjectViewProjectNode" />
+              <item name="My-Resume" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="My-Resume" type="b2602c69:ProjectViewProjectNode" />
+              <item name="My-Resume" type="462c0819:PsiDirectoryNode" />
+              <item name="Resume" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="My-Resume" type="b2602c69:ProjectViewProjectNode" />
+              <item name="My-Resume" type="462c0819:PsiDirectoryNode" />
+              <item name="Resume" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d77fe40f-327a-4e7a-b068-f938e05bd4c3" name="Default" comment="" />
+      <created>1537709578567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537709578567</updated>
+      <workItem from="1537709580348" duration="1915000" />
+      <workItem from="1537717027030" duration="1104000" />
+      <workItem from="1537766003848" duration="950000" />
+      <workItem from="1537800524459" duration="2510000" />
+      <workItem from="1537926792991" duration="49000" />
+      <workItem from="1538102383866" duration="73000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6601000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excise.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="46" lean-forward="false" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resume/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6588">
+          <caret line="244" column="30" lean-forward="false" selection-start-line="244" selection-start-column="30" selection-end-line="244" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Works.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="50" lean-forward="false" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excise.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="46" lean-forward="false" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Works.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="50" lean-forward="false" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resume/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6588">
+          <caret line="244" column="30" lean-forward="false" selection-start-line="244" selection-start-column="30" selection-end-line="244" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excise.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="46" lean-forward="false" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Works.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excise.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="46" lean-forward="false" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Works.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="34" column="15" lean-forward="false" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resume/js/Public-javascript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="15" lean-forward="false" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Works.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="48" column="31" lean-forward="false" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1161">
+          <caret line="43" column="35" lean-forward="false" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excise.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1593">
+          <caret line="59" column="40" lean-forward="false" selection-start-line="59" selection-start-column="40" selection-end-line="59" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resume/js/Public-javascript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="15" lean-forward="false" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excise.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="46" lean-forward="false" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resume/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6588">
+          <caret line="244" column="30" lean-forward="false" selection-start-line="244" selection-start-column="30" selection-end-line="244" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../HTML-CSS-demo/.git/index">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Works.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="24" column="10" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
